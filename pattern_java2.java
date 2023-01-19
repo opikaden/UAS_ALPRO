@@ -16,6 +16,7 @@ public class pattern_java2 {
 
     }
   }
+  
 public static void main(String args[]) {
 
   int c = 5;
