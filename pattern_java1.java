@@ -27,5 +27,6 @@ public class pattern_java1 {
 
     int c = 5;
     main(c);
+    
   }
 }
