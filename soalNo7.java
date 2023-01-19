@@ -9,6 +9,7 @@ public class soalNo7 {
       for (int j = 1; j < n - i; j++) {
 
         System.out.print(" ");
+        
       }
 
       for (int k = 0; k <= i; k++) {
@@ -18,6 +19,7 @@ public class soalNo7 {
       }
 
       System.out.println(" ");
+      
     }
   }
 }
