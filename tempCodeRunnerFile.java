@@ -1,1 +1,0 @@
-pattern_java1
